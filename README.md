@@ -17,7 +17,6 @@ Browse through the different sections to find tips and tricks relevant to your n
 - A clear explanation
 - Code example
 - Best practices
-- Common pitfalls to avoid
 
 ## Contributing 🤝
 
