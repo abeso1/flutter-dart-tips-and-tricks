@@ -23,3 +23,10 @@ Feel free to contribute to this repository by:
 2. Improving existing content
 3. Fixing errors or outdated information
 4. Adding more examples
+
+## Connect With Me
+
+Follow me on LinkedIn for more Flutter and Dart tips, tricks, and best practices:
+- [Amer Beso on LinkedIn](https://www.linkedin.com/in/amerbeso/)
+
+Feel free to reach out if you have any questions or suggestions!
