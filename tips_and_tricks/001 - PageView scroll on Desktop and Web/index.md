@@ -1,4 +1,4 @@
-# PageView Scroll on Desktop and Web
+# PageView not scrolling on Desktop and Web
 
 ## Example and Additional Resources
 Check the `main.dart` file for the complete implementation and `additional_useful_links.md` for more information and related resources.
