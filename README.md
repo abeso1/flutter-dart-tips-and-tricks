@@ -9,7 +9,7 @@ All tips & tricks are shared on my [LinkedIn](https://www.linkedin.com/in/amer-b
 | # | Title | Description | LinkedIn | GitHub |
 |---|-------|-------------|-----------|-----------|
 | 002 | Using FutureBuilder Properly | Learn how to properly implement FutureBuilder to avoid unnecessary Future calls and improve performance. | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7326191684671750144/) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/tree/main/tips_and_tricks/002%20-%20FutureBuilder%20used%20properly/index.md) |
-| 001 | PageView scroll on Desktop and Web | Learn how to fix scroll on PageView with mouse and trackpad. | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7325814193587154944/) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/tree/main/tips_and_tricks/001%20-%20PageView%20scroll%20on%20Desktop%20and%20Web/index.md) |
+| 001 | PageView scroll on Desktop and Web | Learn how to fix the scroll on PageView with the mouse and trackpad. | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7325814193587154944/) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/tree/main/tips_and_tricks/001%20-%20PageView%20scroll%20on%20Desktop%20and%20Web/index.md) |
 
 ## How to Use 🎯
 
@@ -32,7 +32,7 @@ Feel free to contribute to this repository by:
 Follow me on LinkedIn for more Flutter and Dart tips, tricks, and best practices:
 - [Amer Beso on LinkedIn](https://www.linkedin.com/in/amer-beso/)
 
-Feel free to reach out if you have any questions or suggestions! I'm always happy to help and learn from the community.
+Feel free to reach out if you have any questions or suggestions!
 
 ## Star the Repository ⭐
 
