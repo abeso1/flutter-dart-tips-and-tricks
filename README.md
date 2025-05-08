@@ -27,6 +27,6 @@ Feel free to contribute to this repository by:
 ## Connect With Me
 
 Follow me on LinkedIn for more Flutter and Dart tips, tricks, and best practices:
-- [Amer Beso on LinkedIn](https://www.linkedin.com/in/amerbeso/)
+- [Amer Beso on LinkedIn](https://www.linkedin.com/in/amer-beso/)
 
 Feel free to reach out if you have any questions or suggestions!
