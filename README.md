@@ -8,8 +8,10 @@ All tips & tricks are shared on my [LinkedIn](https://www.linkedin.com/in/amer-b
 
 | # | Title | Description | LinkedIn | GitHub |
 |---|-------|-------------|-----------|-----------|
-| 006 | ... | | | |
-| 005 | Compare Lists with `listEquals` | Instead of comparing lists with `==`, compare them with `listEquals` method. | [LinkedIn](#) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/blob/main/tips_and_tricks/005%20-%20Compare%20two%20lists%20by%20listEquals/index.md) |
+| 007 | ... | | | |
+| 006 | Use `if` statements with spread operator | Learn how to use spread operator in Flutter with `if` statements | [LinkedIn](#) | 
+[GitHub Overview](#) |
+| 005 | Compare Lists with `listEquals` | Instead of comparing lists with `==`, compare them with `listEquals` method. | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7328724576488591361/) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/blob/main/tips_and_tricks/005%20-%20Compare%20two%20lists%20by%20listEquals/index.md) |
 | 004 | `SegmentedButton` | Learn how to efficiently use `SegmentedButton` for single and multiple selections in Flutter. | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7327996044103827456/) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/tree/main/tips_and_tricks/004%20-%20SegmentedButton%20Example/index.md) |
 | 003 | Using `whereType<T>()` Method | Learn how to efficiently filter lists by object type using the `whereType<T>()` method in Dart. | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7326546515131285504/) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/tree/main/tips_and_tricks/003%20-%20How%20to%20utilize%20whereType%3C%3E%20method%3F/index.md) |
 | 002 | Using `FutureBuilder` Properly | Learn how to properly implement `FutureBuilder` to avoid unnecessary `Future` calls and improve performance. | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7326191684671750144/) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/tree/main/tips_and_tricks/002%20-%20FutureBuilder%20used%20properly/index.md) |
