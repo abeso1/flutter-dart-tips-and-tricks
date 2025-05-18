@@ -7,6 +7,7 @@ It comes with great helper methods like:
  - addDaysToDate
  - isSameDay
 
+
 No need to reinvent the wheel and write these methods from scratch.
 
 
