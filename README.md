@@ -8,7 +8,8 @@ All tips & tricks are shared on my [LinkedIn](https://www.linkedin.com/in/amer-b
 
 | # | Title | Description | LinkedIn | GitHub |
 |---|-------|-------------|-----------|-----------|
-| 007 | ... | | | |
+| 008 | ... | | | |
+| 007 | Use `DateUtils` from Material | Learn how to efficiently work with `DateTime` using `DateUtils` class from Material package in Flutter. | [LinkedIn](#) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/tree/main/tips_and_tricks/007%20-%20DateUtils%20from%20material/index.md) |
 | 006 | Use `if` statements with spread operator | Learn how to use spread operator in Flutter with `if` statements | [LinkedIn](#) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/blob/main/tips_and_tricks/006%20-%20Use%20'if'%20statements%20with%20spread%20operator/index.md) |
 | 005 | Compare Lists with `listEquals` | Instead of comparing lists with `==`, compare them with `listEquals` method. | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7328724576488591361/) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/blob/main/tips_and_tricks/005%20-%20Compare%20two%20lists%20by%20listEquals/index.md) |
 | 004 | `SegmentedButton` | Learn how to efficiently use `SegmentedButton` for single and multiple selections in Flutter. | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7327996044103827456/) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/tree/main/tips_and_tricks/004%20-%20SegmentedButton%20Example/index.md) |
