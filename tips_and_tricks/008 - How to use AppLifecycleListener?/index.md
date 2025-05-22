@@ -3,4 +3,4 @@
 ## Example and Additional Resources
 Check the `example.dart` file for the complete implementation and `additional_useful_links.md` for more information and related resources.
 
-![AppLifecycleListener Example](./How%20to%20use%20AppLifecycleListener%3F.jpg) 
+![AppLifecycleListener Example](./AppLifecycleListener%20in%20Flutter.jpg) 
