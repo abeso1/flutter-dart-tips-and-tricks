@@ -8,8 +8,9 @@ All tips & tricks are shared on my [LinkedIn](https://www.linkedin.com/in/amer-b
 
 | # | Title | Description | LinkedIn | GitHub |
 |---|-------|-------------|-----------|-----------|
-| 009 | ... | ... | ... | ... |
-| 008 | `AppLifecycleListener` | Learn how to use `AppLifecycleListener` to listen to lifecycle changes | [LinkedIn](#) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/blob/main/tips_and_tricks/008%20-%20How%20to%20use%20AppLifecycleListener%3F/index.md) |
+| 010 | ... | ... | ... | ... |
+| 009 | Avoid using `shrinkWrap` | Learn why using `shrinkWrap` in `ListViews` is bad for performance | [LinkedIn](#) | [GitHub](#) |
+| 008 | `AppLifecycleListener` | Learn how to use `AppLifecycleListener` to listen to lifecycle changes | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7331261300372574209/) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/blob/main/tips_and_tricks/008%20-%20How%20to%20use%20AppLifecycleListener%3F/index.md) |
 | 007 | Use `DateUtils` from Material | Learn how to efficiently work with `DateTime` using `DateUtils` class from Material package in Flutter. | [LinkedIn](https://www.linkedin.com/posts/amer-beso_dart-flutter-flutterdevelopment-activity-7330162856815968257-lrGY) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/tree/main/tips_and_tricks/007%20-%20DateUtils%20from%20material/index.md) |
 | 006 | Use `if` statements with spread operator | Learn how to use spread operator in Flutter with `if` statements | [LinkedIn](https://www.linkedin.com/posts/amer-beso_flutter-flutterdevelopment-tipsandtricks-activity-7329068138484940800-31QJ) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/blob/main/tips_and_tricks/006%20-%20Use%20'if'%20statements%20with%20spread%20operator/index.md) |
 | 005 | Compare Lists with `listEquals` | Instead of comparing lists with `==`, compare them with `listEquals` method. | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7328724576488591361/) | [GitHub Overview](https://github.com/abeso1/flutter-dart-tips-and-tricks/blob/main/tips_and_tricks/005%20-%20Compare%20two%20lists%20by%20listEquals/index.md) |
